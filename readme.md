@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letadriancook&label=Profile%20views&color=0e75b6&style=flat" alt="letadriancook" /> </p>
 
-- 🌱 I’m currently learning **NextJS 15**
+- 🌱 I’m currently learning **C# zero to hero**
 
 - 📫 How to reach me **adrianvillasis2252@gmail.com**
 
